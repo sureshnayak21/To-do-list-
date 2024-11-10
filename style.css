@@ -22,7 +22,7 @@ body {
   height: auto;
   min-height: 400px;
   padding: 30px;
-  background: transparent;
+  background: #909090;
   border: 2px solid #e6b7eca1;
   border-radius: 10px;
   backdrop-filter: blur(15px);
