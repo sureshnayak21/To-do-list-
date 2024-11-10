@@ -18,11 +18,11 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 700px;
   height: auto;
   min-height: 400px;
   padding: 30px;
-  background: #909090;
+  background:	rgb(247, 196, 54);
   border: 2px solid #e6b7eca1;
   border-radius: 10px;
   backdrop-filter: blur(15px);
@@ -45,7 +45,7 @@ h1 {
   outline: none;
   padding: 10px 10px 10px 20px;
   background-color: transparent;
-  border: 2px solid #e6b7eca1;
+  border: 2px solid #fcf9fda1;
   border-radius: 30px;
   color: #eee;
   font-size: 16px;
@@ -59,7 +59,7 @@ h1 {
 .add-button {
   border: none;
   outline: none;
-  background: #e6b7eca1;
+  background: #f7f2f8a1;
   color: #fff;
   font-size: 35px;
   cursor: pointer;
